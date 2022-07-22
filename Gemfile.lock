@@ -98,7 +98,7 @@ GEM
       faraday (~> 0.8, < 1.0)
     smart_properties (1.13.1)
     thread_safe (0.3.6)
-    tzinfo (1.2.5)
+    tzinfo (1.2.10)
       thread_safe (~> 0.1)
     unicode-display_width (1.4.1)
 
