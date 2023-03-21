@@ -9,9 +9,9 @@
       :version_added: '2.8'
     :description:
       :version_added: '2.8'
-    :disabled:
-      :version_added: '2.8'
     :substitutions:
+      :version_added: '2.8'
+    :disabled:
       :version_added: '2.8'
     :filename:
       :version_added: '2.8'
