@@ -1,3 +1,5 @@
+> **This repository is no longer maintained.** It has been archived by Shopify and receives no updates or security fixes.
+
 [![Build Status](https://travis-ci.org/GoogleCloudPlatform/magic-modules.svg?branch=master)](https://travis-ci.org/GoogleCloudPlatform/magic-modules)
 
 
